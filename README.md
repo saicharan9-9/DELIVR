@@ -4,6 +4,7 @@ DELIVR is a machine learning web application that predicts food delivery time ba
 
 The application uses a trained Random Forest Regression model integrated with a scikit-learn preprocessing pipeline and provides an interactive user interface built with Streamlit.
 
+DELIVR is live right now ! : https://delivr-wkukvqpmgagiuqgehduuru.streamlit.app/
 ## Features
 
 - Food delivery time prediction
